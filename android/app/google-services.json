@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080463272920",
+    "project_id": "shoppy-b78c7",
+    "storage_bucket": "shoppy-b78c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080463272920:android:362f433f95d187b95ce0ad",
+        "android_client_info": {
+          "package_name": "com.example.stripe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAkJpxm2zW32AwouW20sy1kDvyfVz9Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
